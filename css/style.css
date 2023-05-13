@@ -1,0 +1,76 @@
+
+.titulo{
+	font-size: 38px;
+}
+#banner h2{
+	font-size: 45px;
+	padding-bottom: 40px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body{
+	font-family: 'Roboto', 'sans serif';
+	font-size: 16px;
+	background-color: black
+}
+
+#subscribe{
+	background-image: url("../img/res5.jpg");
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 200px 200px 200px;
+	text-align: center;
+}
+
+.btn-secondary{
+	padding: 100px;
+}
+
+
+.reviews .icon-box {
+  padding: 50px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  transition: all 0.3s ease-in-out;
+  text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
+/* Style all font awesome icons */
+footer .fa {
+  padding: 0;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.klaquetalogo {
+	width: 30px;
+	height: auto;
+}
+a.footer-a:hover {
+	color: #bcc0c9;
+}
+
+.footer-text {
+	color: rgba(255, 255, 255, 1);
+	fill: currentColor;
+}

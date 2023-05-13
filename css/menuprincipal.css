@@ -1,0 +1,46 @@
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+
+#menu_secundario {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.ms-auto{
+	margin-right: 5%;
+}
+
+
+/*vilma*/
+
+.card-block{
+	background-color: #526D17;
+	padding: 2%;
+
+}
+.img-fluid{
+	width: 300px;
+	margin-left: 20px;
+}
+
+
+
+
+.card-block{
+	border-radius: 40px;
+	padding-left: 5%;
+}
+.card-title{
+	color: #FFF8DD;
+}
+.card-text{
+	color: #FFF8DD;
+}
+.button{
+	margin: 10px;
+	background-color: #fff;
+	border-radius: 7px;
+	padding: 3px 40px;
+	border-color: #526D17;
+	border-style: solid;
+
+}
